@@ -26,7 +26,7 @@ step 11: go to  (cmds/database)  and open tut2.txt and now copy the text
 
 step 12: go back to (pyterminal) folder and right click the terminal.py. and click open with code.
 
-step 13: paste the thing you jist copied down the (place your -cec -command-execution-code--) line
+step 13: paste the thing you just copied down the (place your -cec -command-execution-code--) line
 
 and you can replace the (print ('hello')) with whatever function you want.
 
