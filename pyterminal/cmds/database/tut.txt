@@ -1,0 +1,3 @@
+#fdc -file-directory-command-
+with open('cmds\list#.txt') as b:
+    list# = b.read()

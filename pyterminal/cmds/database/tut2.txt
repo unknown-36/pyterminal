@@ -1,0 +1,3 @@
+s#cec -command-execution-code-
+elif cmd == list#:
+    print ('hello')
